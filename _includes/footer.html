@@ -2,34 +2,25 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+	  <li><i class="fa fa-envelope" aria-hidden="true"></i> &#103;avento&#064;ucw&#46;c&#122;</li>
+	  <li><a href="https://gavento.ucw.cz/keys/gavento-2017-09-15.gpg"><i class="fa fa-lock" aria-hidden="true"></i> GnuPG 4800B554</a></li>
+	  <li><a href="https://github.com/gavento"><i class="fa fa-github" aria-hidden="true"></i> github.com/gavento</a></li>
+	  <li><i class="fa"></i> Last modified {{ page.last_modified_at | date: "%Y-%m-%d" }}</li>
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
+	  <a href="http://kam.mff.cuni.cz/"><i class="fa fa-university" aria-hidden="true"></i> Dept. of applied mathematics</a><br>
+	  <i class="fa"></i> Malostranske nam. 25<br>
+	  <i class="fa"></i> 118 00 Prague<br>
+	  <i class="fa"></i> Czech Republic
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+	  <div class="footer-symbol"></div>
       </div>
     </div>
 
