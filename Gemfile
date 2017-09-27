@@ -6,5 +6,5 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 gem "jekyll"
 gem "jekyll-theme-kagami"
 gem "jekyll-last-modified-at"
-
+gem 'jekyll-scholar'
 #gem "jekyll-octicons"

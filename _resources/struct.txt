@@ -1,0 +1,26 @@
+Short bio, contacts, CV?
+Links: MFF, NIC, past(ETH, AIC)
+
+## Research
+
+Links: DBLP, arXiv, ORCID
+
+Topics (separate pages)
+* Graphs and complexity
+* Games on graphs
+* Genomics
+
+## Teaching
+
+Projects links
+Czech subpages
+
+## Programming
+
+Links: github
+Rust
+
+## Other
+
+Kolovratek
+Misc links

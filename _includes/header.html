@@ -2,8 +2,13 @@
 
   <div class="wrapper">
 
+  <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+  <span class="page-title">:: <a href="{{ page.url }}">{{ page.title }}</a></span>
+  {% for lang in page.translations %}
+  <a href="{{ lang[1] }}"><img class="header-language-icon" src="/style/{{ lang[0] }}.png"></a>
+  {% endfor %}
       <!--    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a> -->
-
+<!--
     <nav class="site-nav">
       <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">
@@ -21,7 +26,7 @@
         {% endfor %}
       </div>
     </nav>
-
+-->
   </div>
 
 </header>

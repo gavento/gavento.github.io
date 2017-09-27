@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Tomáš Gavenčiak
+title: Homepage
+#translations:
+#    cs: index.cs.html
 ---
 
-<img src="/gavento-m.jpg" style="max-width:30%; float: right; margin-left: 3em; padding: 7px; border: solid 2px #ddd; background: #f6f6f6;">
+<img src="/style/gavento-m.jpg" style="max-width:30%; float: right; margin-left: 3em; padding: 7px; border: solid 2px #ddd; background: #f6f6f6;">
 
 Researcher in computational genomics, graph theory and algorithms at
 [Department of applied mathematics, Charles University](http://kam.mff.cuni.cz/).
@@ -22,21 +24,22 @@ In the past I have also worked in
 
 ### Topics
 
-* [Computational genomics]()
-* [Graphs and complexity]()
-* [Games on graphs]()
-* [Other ideas]()
+* Computational genomics
+* Graphs and complexity
+* Games on graphs
+* Scheduling frameworks
 
 
 ## Teaching
 
-* Fall 2017: [Introduction to problem solving (IPS)](http://mj.ucw.cz/vyuka/1718/ips/) (in Czech)
+### [Student projects](/vyuka/projekty.html) (in Czech)
+
+*Fall 2017:* [Introduction to problem solving (IPS)](http://mj.ucw.cz/vyuka/1718/ips/) (in Czech)
 
 [Lecture and exercise archive](/vyuka/archiv.html) (in Czech)
 
-### Student projects
 
-Projects links
+{::comment}
 Job offers
 
 ## Programming
@@ -46,10 +49,12 @@ I have been working on
 * Dns Collector
 Rust ads
 
-## Other
+{:/comment}
 
+## Other activities
 
-Kolovratek
-Misc links
-MaM, KSP
+Tibetan tea house [Dharmasala](http://www.dharmasala.cz/) in Praha Karlín.
+Crafts and orchid meadow cutting in [ZČHB Kolovrátek](http://kolovratek.brontosaurus.cz/).
+Climbing with [AKA Praha](http://www.akapraha.cz).
+Seminars for talented high-school students [MaM](https://mam.mff.cuni.cz/) and [KSP](https://ksp.mff.cuni.cz/) in the past.
 

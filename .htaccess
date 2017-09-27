@@ -1,0 +1,8 @@
+# Force encoding setting
+AddCharset UTF-8 .html .html.cs .html.en
+IndexOptions +Charset=UTF-8
+<Files "/">
+  ForceType 'text/html; charset=utf-8'
+</Files>
+
+
