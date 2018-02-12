@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Homepage
-#translations:
-#    cs: index.cs.html
+translations:
+    cs: index.cs.html
 ---
 
-<img src="/style/gavento-m.jpg" style="max-width:30%; float: right; margin-left: 3em; padding: 7px; border: solid 2px #ddd; background: #f6f6f6;">
+<img src="/style/gavento-m.jpg" class="index-portait-img">
 
 Researcher in computational genomics, graph theory and algorithms at
 [Department of applied mathematics, Charles University](http://kam.mff.cuni.cz/).
