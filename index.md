@@ -29,14 +29,14 @@ In the past I have also worked in
 * Games on graphs
 * Scheduling frameworks
 
+## [Student projects](/vyuka/projekty.html) (in Czech)
 
 ## Teaching
 
-### [Student projects](/vyuka/projekty.html) (in Czech)
-
-*Fall 2017:* [Introduction to problem solving (IPS)](http://mj.ucw.cz/vyuka/1718/ips/) (in Czech)
-
-[Lecture and exercise archive](/vyuka/archiv.html) (in Czech)
+* *Spring 2018:* [Introduction to combinatorics and graph theory]() (in Czech)
+* *Spring 2018:* [Introduction to problem solving 2 (IPS2)](http://mj.ucw.cz/vyuka/1718/ips2/) (in Czech)
+* *Fall 2017:* [Introduction to problem solving (IPS)](http://mj.ucw.cz/vyuka/1718/ips/) (in Czech)
+* [Lecture and exercise archive](/vyuka/archiv.html) (in Czech)
 
 
 {::comment}
