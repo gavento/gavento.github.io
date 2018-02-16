@@ -18,7 +18,7 @@ In the past I have also worked in
 ## Research
 
 [<i class="ai black ai-google-scholar"></i> Scholar](https://scholar.google.com/citations?user=WeCJARQAAAAJ),
-[<i class="ai black ai-dblp"></i> DBLP](http://dblp.uni-trier.de/pers/hd/g/Gavenciak:Tom=aacute=s),
+[<i class="ai black ai-dblp"></i> DBLP](http://dblp.uni-trier.de/pers/hd/g/Gavenciak:Tomas),
 [<i class="ai black ai-arxiv"></i> arXiv](https://arxiv.org/find/math/1/au:+Gavenciak_T/0/1/0/all/0/1),
 [<i class="ai black ai-orcid"></i> ORCID](https://orcid.org/0000-0003-1119-2426) 
 
@@ -33,7 +33,7 @@ In the past I have also worked in
 
 ## Teaching
 
-* *Spring 2018:* [Introduction to combinatorics and graph theory]() (in Czech)
+* *Spring 2018:* [Introduction to combinatorics and graph theory](/vyuka/18LS-KGM.html) (in Czech)
 * *Spring 2018:* [Introduction to problem solving 2 (IPS2)](http://mj.ucw.cz/vyuka/1718/ips2/) (in Czech)
 * *Fall 2017:* [Introduction to problem solving (IPS)](http://mj.ucw.cz/vyuka/1718/ips/) (in Czech)
 * [Lecture and exercise archive](/vyuka/archiv.html) (in Czech)
