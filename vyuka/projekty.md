@@ -1,18 +1,20 @@
 ---
 layout: page
-title: Studentské projekty
+title: Studentské práce a projekty
 ---
-# Studentské práce a projekty
 
 Vedu ročníkové projekty i diplomové práce na různá aplikovaná témata; krom dobré myšlenky mě zajímá i poteciální impakt a výstup.
 
-Tvorba tématu je společný proces; : pro některá témata mám i konkrétní zadání, jiná přinesete vy sami a dotvoříme je spolu do zadání práce. Projděte si též [seznam otázek k zamyšlení](#k-zamysleni).
+* ToC seed
+{:toc}
 
 [//]: # Některé projekty je možné podpořit stipendiem či částečným úvazkem (podle aktuální grantové situace). Pro ujasnění: odměna je za práci na navazujícím vědeckém článku či kontinuální práci na výsledném software, není možné a etické odměňovat za samotnou diplomovou práci.
- 
+
 ## Témata
 
-Obtížnost je takřka vždy volitelná a najít se často dá jak zajímavý ročníkový projekt, tak diplomka.
+Tvorba tématu je společný proces; : pro některá témata mám i konkrétní zadání, jiná přinesete vy sami a dotvoříme je spolu do zadání práce. Projděte si též [seznam otázek k zamyšlení](#k-zamy%C5%A1len%C3%AD).
+
+Obtížnost je takřka vždy volitelná a najít se často dá jak zajímavý ročníkový projekt, tak bakalářská či diplomová práce.
 
 ### Distribuované výpočty
 
@@ -20,7 +22,7 @@ Obtížnost je takřka vždy volitelná a najít se často dá jak zajímavý ro
 
 Navrhnout a naimplementovat minimalistický ale superrychlý messaging framework, který efektivně využije možnosti komunikačního média, ať je to TCP/IP, UDP, InfiniBand či sdílená paměť (na stejném stroji).
 
-Paralelní výpočty a programy superpočích často komunikují pomocí [MPI](https://en.wikipedia.org/wiki/Message_Passing_Interface) či novějšího [GPI-2](https://en.wikipedia.org/wiki/Global_Address_Space_Programming_Interface)), microservices v cloudu pomocí různých RPC ([gRPC](https://grpc.io/), ...) či zpráv ([ZeroMQ](https://en.wikipedia.org/wiki/ZeroMQ), [AMPQ](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)). MPI a GPI-2 je super rychlé, ale existují jen na superpočítačích a jsou komplexní. RPC a message brokery jsou těžkopádné a pomalé. Ne každý systém umí pro komunikaci využít sdílenou paměť. 
+Paralelní výpočty a programy superpočítačích často komunikují pomocí [MPI](https://en.wikipedia.org/wiki/Message_Passing_Interface) či novějšího [GPI-2](https://en.wikipedia.org/wiki/Global_Address_Space_Programming_Interface)), microservices v cloudu pomocí různých RPC ([gRPC](https://grpc.io/), ...) či zpráv ([ZeroMQ](https://en.wikipedia.org/wiki/ZeroMQ), [AMPQ](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)). MPI a GPI-2 je super rychlé, ale existují jen na superpočítačích a jsou komplexní. RPC a message brokery jsou těžkopádné a pomalé. Ne každý systém umí pro komunikaci využít sdílenou paměť. 
 
 Cíl je vytvořit knihovnu, která umožní asynchronně posílat zprávy (jen point-to-point) mezi programy na rychlé síti a využije k tomu optimální médium: sdílenou paměť na stejném stroji, GPI-2 tam, kde je InfiniBandsíť, UDP/IP či TCP/IP tam, kde není, nejlépe [zero-copy](https://lwn.net/Articles/726917/). Při chybě spojení korektně hlásit, ale bez zotavení. Na formátu obsahu zpráv nezáleží, ale smysl by dávaly například [FlatBuffers](https://google.github.io/flatbuffers/). Mělo by nad tím jít postavit jednoduché a rychlé RPC (totifikace a request-response, ne nutně integrace do event-loops). Implementace v C, Rustu či C++ a volitelně pak s wrappery v Pythonu či jiném jazyce, opensource. Je třeba nastudovat a rozmyslet vlastnosti existujících řešení; má smysl udělat i jen část z toho.
 
@@ -36,7 +38,7 @@ Cíl je navrhnout a naprogramovat scheduler jako komponentu pro Rain a otestovat
 
 #### Variační grafy
 
-Genetická rozmanitost druhu se tradičně zachycuje výčtem genetických variant, relativně nový přístup jsou variační grafy, jako například v relativně novém prokejtu [VG](https://github.com/vgteam/vg), obecněji též [De Bruijn grafy](https://en.wikipedia.org/wiki/De_Bruijn_graph) DNA sekvencí. Ve všech případech jde o obrovské grafy (řádově $1o^6 -- 10^9$ vrcholů).
+Genetická rozmanitost druhu se tradičně zachycuje výčtem genetických variant, relativně nový přístup jsou variační grafy, jako například v relativně novém prokejtu [VG](https://github.com/vgteam/vg), obecněji též [De Bruijn grafy](https://en.wikipedia.org/wiki/De_Bruijn_graph) DNA sekvencí. Ve všech případech jde o obrovské grafy (řádově $$10^6 - 10^9$$ vrcholů).
 
 Nabízí se konkrétní otázky:
 
@@ -60,6 +62,8 @@ Cílem je navrhnout dotazovací jazyk a naprogramovat nástroj pro dotazování 
 
 Rust kompilátor a základní knihovny jsou zajímavou příležitostí pro to [přispět](https://www.rustaceans.org/findwork) do žijícího a rostoucího projektu, a to včetně vntřností kompilátoru. Je snadné najít něco na úrovni jednoho RP ale najdou se i zajímavější a hlubší témata jako například [rozšiřování typového systému](https://paper.dropbox.com/doc/Trait-system-LCgNlSbM5cPOyEyWdoqzW), [specializace pro generika](https://github.com/rust-lang/rfcs/blob/master/text/1210-impl-specialization.md) nebo [experimenty s GC](https://manishearth.github.io/blog/2016/08/18/gc-support-in-rust-api-design/). Nalezení tématu je na vás.
 
+Informace k vývoji kompilátoru lze najít například na webu [Rust forge](https://forge.rust-lang.org/), vzniká též ale i [online guide](https://rust-lang-nursery.github.io/rustc-guide/) [[github]](https://github.com/rust-lang-nursery/rustc-guide/). Neoficiální rustdoc pro kompilátor najdete [zde](https://manishearth.github.io/rust-internals-docs/rustc/).
+
 #### X v Rustu
 
 Pokud máte rádi Rust a chtěli byste v něm naimplementovat nějaký svůj oblíbený algoritmus, datovou strukturu či jinou knihovnu, je možné to vzít jako RP. Některá témata se hodí i pro bakalářku či diplomku, ale měl by v nich být jako výrazný prvek elegantní a netriviální design, superefektivita či řešení technického problému. Výsledek musí být publikován jako kvalitní (i když třeba minimalistické) opensource projekt -- toto nemá smysl dělat "do šuplíku".
@@ -73,7 +77,7 @@ streamování a journal updatů takových objektů. PBWT datové struktury, suff
 
 I nedokonalá umělá inteligence může hodně říct o kvalitě a hratelnosti deskové hry a to může dost pomoct s návrhem a testováním takové hry. Cílem je použít techniky algoritmické teorie her (ať už shannonovské hry či reinforcement learning) pro play-testing jednodušších deskových her a například odvodit, které tahy či karty jsou příliš silné či naopak málo hratelné. Můj známý Tomáš Uhlíř vyvýjí několik her, dobře analyzovatelná i vylepšitelná by byla například [First Snow](https://boardgamegeek.com/boardgame/225235/first-snow), ale jsou i další.
 
-##### Framework pro specifikaci a ladění deskových her
+#### Framework pro specifikaci a ladění deskových her
 
 Framework a jazyk k modelování deskových her. Cíl je umět snadno popsat stav, možné tahy a přechody (ať jako blackbox či v rámci popisného jazyka), specifikovat informaci známou různým hráčům a v neposlední řadě popsat strukturu informace pro základní vizualizaci stavu hry. Cílem by v první fázi měl být nástroj, kde můžete snadno popsat existující či navrhovanou hru a nějak omezeně ji hrát. (Cílem není mít herní server pro veřejnost, ale nástroj pro testování hry a ladění AI.)
 
@@ -94,7 +98,7 @@ Cílem je analyzovat a implementovat konkrétní rodinu kódů pro velká distri
 
 Low Density Parity Check ([LDPC](https://www.ics.uci.edu/~welling/teaching/ICS279/LPCD.pdf)) kódy jsou založeny na řídkých závislostech mezi daty a kontrolními bity. Více efektivní jsou ale pro větší kódované bloky, a ty se standardně dekódují celé. Pomocí belief-propagation je možné *lokálně* (pohledem na malé okolí testovaného bitu) otestovat jeho správnost i jej lokálně dekódovat a opravit. Cílem je tedy lokální LDPC tester a dekodér a jeho benchmark. Plikace jednodušších lokálních dekodérů v distribuovaných úložištích například [zde](https://arxiv.org/abs/1710.05615).
 
-## <a name='k-zamysleni'></a>K zamyšlení
+## K zamyšlení
 
 Než přijdete, zkuste se zamyslet nad tím, co od práce čekáte a co jí chcete dát. Například zkuste něco z otázek:
 
@@ -115,7 +119,7 @@ Než přijdete, zkuste se zamyslet nad tím, co od práce čekáte a co jí chce
 
 * [Bc 2015] Veronika Slívová: Cops and robber game on directed complete graphs. Kombinatorická hra (podobná deskové hře Fantom staré Prahy) o pronásledování lupičů na orientovaných grafech a její teoretické vlastnosti.
 
-* [Bc 2015] Anna Chejnovská: Optimisation using graph searching on special graph classes. Algoritmy na pokrývání grafů cestami na co-comparability grafech, inspirace viz [PDF].
+* [Bc 2015] Anna Chejnovská: Optimisation using graph searching on special graph classes. Algoritmy na pokrývání grafů cestami na co-comparability grafech.
 
 * [RP 2015] Štěpán Šimsa: Framework Contest24 pro soutěže typu Challenge24 Sada knihoven a nástrojů pro usnadnění týmových soutěží v programování jako je Challenge24.
 
