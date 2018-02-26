@@ -9,12 +9,46 @@ Cvičení navazuje ve 12:20 tamtéž, cvičí [Martin Balko](https://kam.mff.cun
 
 ## Literatura
 
-*J. Matoušek, J. Nešetřil:* Kapitoly z diskretní matematiky
+**[KzDM]** *J. Matoušek, J. Nešetřil:* Kapitoly z diskretní matematiky
 
-*T. Valla, J. Matoušek:* Kombinatorika a grafy I [[online]](https://iuuk.mff.cuni.cz/~valla/kg.html)
+**[KaG]** *T. Valla, J. Matoušek:* Kombinatorika a grafy I [[online]](https://iuuk.mff.cuni.cz/~valla/kg.html)
 
 ## Probraná látka
 
 ### Přednáška 19. 2. (JK)
 
+Matice sousednosti grafu, mocniny matice sousednosti a počet sledů v grafu. Laplacián grafu a počet koster grafu pomocí determinantu Laplaciánu.
+
 ### Přednáška 26. 2. (TG)
+
+Obyčejné vyrvořující funkce a jejich aplikace. Definice vytvořujících funkcí a operací nad nimi včetně derivace, integrálu a konvoluce. Odvození vytvořujících funkcí přímou sumací, operacemi nad známými vyvořujícími funkcemi a z funkcionálních rovnic (například $$1+xf(x)=f(x)$$ pro posloupnost $$1, 1, 1, 1, ...$$). Význam konvoluce v posloupnostech. Odvození vytvřující funkce a explicitního vzorce pro Fibonacciho posloupnost.
+
+Zdroj: [KzDM] Sekce 10.1 - 10.3
+
+### Přednáška 5. 3. (MB)
+
+Pokračování o vytvořujících funkcích. Zobecněná binomická věta, počítání binárních stomů, uzávorkování a další cvičení.
+
+Zdroj: [KzDM] Sekce 10.4 - 10.5
+
+### Přednáška 12. 3. (?)
+
+### Přednáška 19. 3. (TG)
+
+### Přednáška 26. 3. (TG)
+
+### Přednáška 2. 4. (?)
+
+### Přednáška 9. 4. (?)
+
+### Přednáška 16. 4. (?)
+
+### Přednáška 23. 4. (?)
+
+### Přednáška 30. 4. (?)
+
+### Přednáška 7. 5. (?)
+
+### Přednáška 14. 5. (TG)
+
+### Přednáška 21. 5. (TG)
