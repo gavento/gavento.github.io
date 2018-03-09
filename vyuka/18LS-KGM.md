@@ -27,11 +27,11 @@ Zdroj: [KzDM] Sekce 10.1 - 10.3
 
 ### Přednáška 5. 3. (MB)
 
-Pokračování o vytvořujících funkcích. Zobecněná binomická věta, počítání binárních stomů, uzávorkování a další cvičení.
+Pokračování o vytvořujících funkcích. Zobecněná binomická věta, počítání binárních stomů, uzávorkování a další cvičení. Viz též stránky cvičení.
 
 Zdroj: [KzDM] Sekce 10.4 - 10.5
 
-### Přednáška 12. 3. (?)
+### Přednáška 12. 3. (JK)
 
 ### Přednáška 19. 3. (TG)
 
