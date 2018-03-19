@@ -23,13 +23,13 @@ Matice sousednosti grafu, mocniny matice sousednosti a počet sledů v grafu. La
 
 Obyčejné vyrvořující funkce a jejich aplikace. Definice vytvořujících funkcí a operací nad nimi včetně derivace, integrálu a konvoluce. Odvození vytvořujících funkcí přímou sumací, operacemi nad známými vyvořujícími funkcemi a z funkcionálních rovnic (například $$1+xf(x)=f(x)$$ pro posloupnost $$1, 1, 1, 1, ...$$). Význam konvoluce v posloupnostech. Odvození vytvřující funkce a explicitního vzorce pro Fibonacciho posloupnost.
 
-Zdroj: [KzDM] Sekce 10.1 - 10.3
+*Zdroj:* [KzDM] Sekce 10.1 - 10.3.
 
 ### Přednáška 5. 3. (2x MB)
 
 Pokračování o vytvořujících funkcích. Zobecněná binomická věta, počítání binárních stomů, uzávorkování a další cvičení. Viz též stránky cvičení.
 
-Zdroj: [KzDM] Sekce 10.4 - 10.5
+*Zdroj:* [KzDM] Sekce 10.4 - 10.5.
 
 ### Přednáška 12. 3. (2x JK)
 
@@ -38,8 +38,17 @@ Toky v sítích: definice, řezy a elementární řezy, věta o dualitě, Ford-F
 Hallova věta a systémy různých reprezentantů (důkaz přes toky v sítích).
 Věta o párování v bipartitiním grafu (všechny stupně jedné partity alespoň takové jako všechny stupně druhé partity implikuje perf. párování), důsledek o perf. párováních v regulárních bipartitních grafech.
 
+*Zdroj:* [KaG] Kapitoly 2 a 4.
 
 ### Přednáška 19. 3. (2x TG)
+
+Vcholová souvislost $$k_v(G)$$ a hranová souvislost $$k_e(G)$$ grafu, lemmata o monotonicitě při mazání hran, věta $$k_v(G)\leq k_e(G)$$.
+Věty Ford-Fulkerson a Menger o vztahu hranové (resp. vrcholové) souvislosti a počtu hranově (resp. vrcholově) disjunktnich cest.
+Důkaz Königovy věty o vrcholovém pokrytí v bipartitním grafu pomocí toků v síti.
+
+*Zdroj:* [KaG] Kapitola 3.
+
+*Cvičení:* Algoritmus Ford-Fulkerson může běžet libovolně dlouho (s vahami v $$\mathbb{Q}$$) či nekonečně douho (s vahami v $$\mathbb{R}$$, viz [Wikipedia](https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm#Non-terminating_example)). Doplňování latinských obdélníků na latinské čtverce. Dvojitě stochastická matice je afinní kombinací permutačních matic. Stabiní párování (stable marriage), existence a algoritmus.
 
 ### Přednáška 26. 3. (TG, MB)
 
