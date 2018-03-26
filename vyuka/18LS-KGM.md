@@ -52,9 +52,17 @@ Důkaz Königovy věty o vrcholovém pokrytí v bipartitním grafu pomocí toků
 
 ### Přednáška 26. 3. (TG, MB)
 
-### Přednáška 2. 4. (?)
+Tutteho věta, Tutte-Berge formule (viz [Wikipedia](https://en.wikipedia.org/wiki/Tutte%E2%80%93Berge_formula), důkaz z Tutteho přidáním $$\text{deficiency}(G)$$ univerzálních vrcholů a nalezením perfektního párování).
+Alternativní (přímý) důkaz Tutte-Berge popisuje D. West, Tutte z něj plyne přímo.
+Gallai-Edmonds o struktuře maximálních párování (jen tvrzení a intuice; nebude zkoušeno).
 
-### Přednáška 9. 4. (?)
+*Zroj:* [KaG] Sekce 5.1, *D. B. West:* A short proof of the Berge–Tutte Formula and ... [[PDF]](http://www.cse.iitd.ernet.in/~naveen/courses/CSL851/galledm.pdf)
+
+### Přednáška 2. 4. Není
+
+Velikonoční pondělí.
+
+### Přednáška 9. 4. (JK, MB)
 
 ### Přednáška 16. 4. (?)
 
