@@ -19,7 +19,7 @@ V minulosti jsem též pracoval ve
 
 [<i class="ai black ai-google-scholar"></i> Scholar](https://scholar.google.com/citations?user=WeCJARQAAAAJ),
 [<i class="ai black ai-dblp"></i> DBLP](http://dblp.uni-trier.de/pers/hd/g/Gavenciak:Tomas),
-[<i class="ai black ai-arxiv"></i> arXiv](https://arxiv.org/find/math/1/au:+Gavenciak_T/0/1/0/all/0/1),
+[<i class="ai black ai-arxiv"></i> arXiv](https://arxiv.org/find/all/1/au:+Gavenciak_T/0/1/0/all/0/),
 [<i class="ai black ai-orcid"></i> ORCID](https://orcid.org/0000-0003-1119-2426) 
 
 ### Témata
