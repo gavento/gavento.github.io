@@ -7,6 +7,8 @@ Přednáška [NMIN331](https://is.cuni.cz/studium/predmety/index.php?&do=predmet
 
 Cvičení navazuje ve 12:20 tamtéž, cvičí [Martin Balko](https://kam.mff.cuni.cz/~balko/). Více viz [stránky cvičení.](https://kam.mff.cuni.cz/~balko/zktg1718/ZKTG.html)
 
+Minulou přednášku vedl Pavel Valtr, stránka přednášky [zde](https://kam.mff.cuni.cz/~valtr/min331.html).
+
 ## Literatura
 
 **[KzDM]** *J. Matoušek, J. Nešetřil:* Kapitoly z diskretní matematiky
@@ -62,16 +64,28 @@ Gallai-Edmonds o struktuře maximálních párování (jen tvrzení a intuice; n
 
 Velikonoční pondělí.
 
-### Přednáška 9. 4. (JK, MB)
+### Přednáška 9. 4. (TG, MB)
 
-### Přednáška 16. 4. (?)
+Rovinné grafy: definice křivky a oblouku, nakreslení grafu oblouky a lomenými oblouky, ekvivalence existence obloukového a lomenicového nakreslení (náznak důkazu). Jordanova věta [[Wiki]](https://en.wikipedia.org/wiki/Jordan_curve_theorem) bez důkazu.
 
-### Přednáška 23. 4. (?)
+Eulerova formule (s náznakem topologického důkazu z Jordanovy věty), max. počet hran rovinného grafu (a z toho 5-degenerovanost) a rovinného grafu bez rojúhelníků. Nerovinnost $$K_{3,3}$$ a $$K_5$$ jako důsledek Eulerovy formule. Rovinnost je uzavřená na podgrafy, dělení hran a kontrakce hran. Kuratowského věta (jednodušší implikace plyne z předchozího).
 
-### Přednáška 30. 4. (?)
+Barevnost grafu, duál rovinného grafu a barevnost duálu (obarvení mapy), věta o 4 barvách (bez důkazu), věta o 5 barvách (dokázáno).
 
-### Přednáška 7. 5. (?)
+*Zdroj:* [KzDM] Kapitola 6.
+
+### Přednáška 16. 4. (JK, MB)
+
+### Přednáška 23. 4. (JK, MB)
+
+### Přednáška 30. 4. (JK, MB)
+
+### Přednáška 7. 5. (JK, MB)
 
 ### Přednáška 14. 5. (TG, MB)
 
+*Plán:* Známé grafové problémy, lehký úvod do výpočetní složitosti a vyčíslotelnosti.
+
 ### Přednáška 21. 5. (TG, MB)
+
+*Plán:* Pokračování výpočetní složitosti a složitostní převody.
