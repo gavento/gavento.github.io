@@ -53,6 +53,7 @@ Rust ads
 
 ## Other activities
 
+Distributed computational framework [Rain](https://github.com/substantic/rain/).
 Tibetan tea house [Dharmasala](http://www.dharmasala.cz/) in Praha Karlín.
 Crafts and orchid meadow cutting in [ZČHB Kolovrátek](http://kolovratek.brontosaurus.cz/).
 Climbing with [AKA Praha](http://www.akapraha.cz).

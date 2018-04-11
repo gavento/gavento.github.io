@@ -51,6 +51,7 @@ Rust ads
 
 ## Další aktivity
 
+Distribuovaný výpočetní framework [Rain](https://github.com/substantic/rain/).
 Tibetská čajovna [Dharmasala](http://www.dharmasala.cz/) v Pražském Karlíně.
 Řemesla a kosení chráněných luk s [ZČHB Kolovrátek](http://kolovratek.brontosaurus.cz/).
 Lezení s [AKA Praha](http://www.akapraha.cz).
