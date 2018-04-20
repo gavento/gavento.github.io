@@ -76,6 +76,10 @@ Barevnost grafu, duál rovinného grafu a barevnost duálu (obarvení mapy), vě
 
 ### Přednáška 16. 4. (JK, MB)
 
+Bloková struktůra grafu, ušaté lemma o vytváření 2-souvislých grafů.
+
+*Zdroj:* [KzDM] Sekce 3.8. (neúplný)
+
 ### Přednáška 23. 4. (JK, MB)
 
 ### Přednáška 30. 4. (JK, MB)
