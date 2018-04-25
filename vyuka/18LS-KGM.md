@@ -82,6 +82,10 @@ Bloková struktůra grafu, ušaté lemma o vytváření 2-souvislých grafů.
 
 ### Přednáška 23. 4. (JK, MB)
 
+Hamiltonovské kružnice grafu, Chvátalův uzávěr a postačující podmínky hamiltonovskosti, lízátkový graf, Smith-Thomasson věta o sudosti počtu ham. kružnic v grafech s pouze lichými stupni. 2-aproximační algoritmus pro metrický TSP.
+
+*Zdroj:* [KG] Kapitola 6 (krom S-T a lízátkového grafu)
+
 ### Přednáška 30. 4. (JK, MB)
 
 ### Přednáška 7. 5. (JK, MB)
