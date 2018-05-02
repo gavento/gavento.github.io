@@ -86,9 +86,19 @@ Hamiltonovské kružnice grafu, Chvátalův uzávěr a postačující podmínky 
 
 *Zdroj:* [KG] Kapitola 6 (krom S-T a lízátkového grafu)
 
-### Přednáška 30. 4. (JK, MB)
+### Přednáška 30. 4. (2x JK)
 
-### Přednáška 7. 5. (JK, MB)
+Edmondsův algoritmus pro párování v obecných grafech: volné stříavé cesty, lemma o kontrakci "květů", Edmondsovy lesíky a následně algoritmus s důkazem správnosti (bez časové složitosti).
+
+*Zdroj:* [KG] Sekce 5.2.
+
+Ramseyovy věty: symetrické $$R_k(n)$$ a nesymetrické pro dvě barvy $$R(k,l)$$, odhad $$R_2(k,l) \le {k+l-2 \choose k-1}$$, odhad $$R_k(3) \le 1+k!e$$, Schurovo lemma. Ramsey pro $$p$$-tice (nebude zkoušen).
+
+*Zdroj:* [KG] Kapitola 1, [KzDM] Kapitola 11.
+
+### Přednáška 7. 5. (2x MB)
+
+Dvojcvičení k přednášce 30. 4.
 
 ### Přednáška 14. 5. (TG, MB)
 
