@@ -15,6 +15,14 @@ Minulou přednášku vedl Pavel Valtr, stránka přednášky [zde](https://kam.m
 
 **[KaG]** *T. Valla, J. Matoušek:* Kombinatorika a grafy I [[online]](https://iuuk.mff.cuni.cz/~valla/kg.html)
 
+## Zkoušky
+
+Zkoušky se zkládají z písemné přípravy na přiděleně téma a následné ústní části. Jsou vypsány tyto termíny:
+
+* Úterý 5. 6. 14:00, S 226 (pracovna prof. Kratochvíla) [[SIS]](https://is.cuni.cz/studium/term_st2/index.php?do=zapsat&sub=detail&ztid=496480)
+* Čtvrtek 21. 6. 9:00, S 226 (pracovna prof. Kratochvíla) [[SIS]](https://is.cuni.cz/studium/term_st2/index.php?do=zapsat&sub=detail&ztid=496481)
+* Úterý 26. 6. 9:00, S 226 (pracovna prof. Kratochvíla) [[SIS]](https://is.cuni.cz/studium/term_st2/index.php?do=zapsat&sub=detail&ztid=496482)
+
 ## Probraná látka
 
 ### Přednáška 19. 2. (JK, MB)
@@ -102,8 +110,14 @@ Dvojcvičení k přednášce 30. 4.
 
 ### Přednáška 14. 5. (TG, MB)
 
-*Plán:* Známé grafové problémy, lehký úvod do výpočetní složitosti a vyčíslotelnosti.
+Úvod do vyčíslitelnosti: definice problému jako jazyka, definice rekurzivních a rekurzivně vyčíslitelných jazyků, halting problém a jeho nerozhodnutelnost. Definice výpočetních modelů: Turingův stroj a Random access machine a náznak jejich ekvivalence. Univerzální Turingův stroj. Další problémy ekvivalentní s halting problémem: dokazatelnost, Diofantické rovnice, Postův korespondenční problém.
+
+*Zrdoj:* Skripta P. Kučery [[PDF]](http://ktiml.mff.cuni.cz/~kucerap/NTIN090/NTIN090-poznamky.pdf)
 
 ### Přednáška 21. 5. (TG, MB)
 
-*Plán:* Pokračování výpočetní složitosti a složitostní převody.
+Definice tříd *P*, *NP* a *co-NP* pomocí nedeterministického Turingova stroje a pomocí existence "certifikátu" náležení do jazyka, *NP*-těžkost a *NP*-úplnost, připomenutí převodu mezi problémy (formálně jako jazyky). Zavedení základních *NP*-úplných problému: SAT, 3-SAT, $$k$$-barevnost grafu, Hamiltonovská kružnice, obchodní cestující, největší klika a nezávislá množina. Kontrast s podobnými problémy, které jsou v *P* (prvočíselnost, 2-barevnost). Důkaz Cook-Levinovy věty (*SAT* je NP-úplný problém) převodem výpočtu Turingova stroje s certifikátem na formuli popisující jeho výpočet.
+
+Na cvičení byly přiklady dalších převodů. Na zkoušce bude očekávána znalost alespoň jednoho netriviálního převodu mezi *NP*-úplnými problémy.
+
+*Zdroj:* Skripta Úvod do složitosti a NP-úplnosti V. Majerecha [[online]](http://ktiml.mff.cuni.cz/~maj/skripta.html)
