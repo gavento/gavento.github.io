@@ -24,9 +24,9 @@ In the past I have also worked in
 
 ### Topics
 
-* Computational genomics
-* Graphs and complexity
-* Games on graphs
+* Graph theory and computational complexity
+* Algorithmic game theory
+* Artificial intelligence and reinforcement learning
 * Scheduling frameworks
 
 ## [Student projects](/vyuka/projekty.html) (in Czech)

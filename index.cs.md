@@ -24,8 +24,9 @@ V minulosti jsem též pracoval ve
 
 ### Témata
 
-* Algoritmy a struktury pro výpočetní genomiku (phasing, genotype refinement)
 * Teorie grafů a výpočetní složitost (algoritmy na třídách grafů), hry na grafech
+* Algoritmická teorie her
+* Umělá inteligence a reinforcement learning
 * Plánovací a výpočetní frameworky
 
 ## [Studentské projekty](/vyuka/projekty.html)
