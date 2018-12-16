@@ -7,7 +7,7 @@ translations:
 
 <img src="/style/gavento-m.jpg" class="index-portait-img">
 
-Researcher in computational genomics, graph theory and algorithms at
+Researcher in AI safety, algorithms and game theory. Working at
 [Department of applied mathematics, Charles University](http://kam.mff.cuni.cz/).
 In the past I have also worked in
 [Algorithms group at ETH Zurich](http://inf.ethz.ch/),
@@ -22,40 +22,30 @@ In the past I have also worked in
 [<i class="ai black ai-arxiv"></i> arXiv](https://arxiv.org/find/all/1/au:+Gavenciak_T/0/1/0/all/0/),
 [<i class="ai black ai-orcid"></i> ORCID](https://orcid.org/0000-0003-1119-2426) 
 
-### Topics
+Recently I am mostly working on AI safety and value learning. My other and past topics include algorithmic game theory, graph theory, computational complexity, deep learning, artificial intelligence, reinforcement learning, algorithms in genomics and scheduling.
 
-* Graph theory and computational complexity
-* Algorithmic game theory
-* Artificial intelligence and reinforcement learning
-* Scheduling frameworks
+## Projects
 
-## [Student projects](/vyuka/projekty.html) (in Czech)
+I am developing several software projects, mostly [Rain, a distributed computational framework](https://github.com/substantic/rain/) and [GameGym, a game theory library](https://github.com/gavento/gamegym).
 
-## Teaching
+### Student projects
+
+I offer student projects and theis topics both on AI-safety related topics and all the others, aboth theory and implementation/experiments. There is an older [student projects page](/vyuka/projekty.html) (in Czech). Contact me if you are curious or interested.
+
+I am coaching for [Effective Thesis](http://effectivethesis.com/), a good source of EA-aligned thesis topics and projects.
+
+### Teaching
 
 * *Spring 2018:* [Introduction to combinatorics and graph theory](/vyuka/18LS-KGM.html) (in Czech)
 * *Spring 2018:* [Introduction to problem solving 2 (IPS2)](http://mj.ucw.cz/vyuka/1718/ips2/) (in Czech)
 * *Fall 2017:* [Introduction to problem solving (IPS)](http://mj.ucw.cz/vyuka/1718/ips/) (in Czech)
 * [Lecture and exercise archive](/vyuka/archiv.html) (in Czech)
 
-
-{::comment}
-Job offers
-
-## Programming
-
-I have been working on 
-* Codex
-* Dns Collector
-Rust ads
-
-{:/comment}
-
 ## Other activities
 
-Distributed computational framework [Rain](https://github.com/substantic/rain/).
-Tibetan tea house [Dharmasala](http://www.dharmasala.cz/) in Praha Karlín.
-Crafts and orchid meadow cutting in [ZČHB Kolovrátek](http://kolovratek.brontosaurus.cz/).
+Active member of Czech [Effective Altruism](https://www.effectivealtruism.org/) group ([Spolek pro efektivní altruismus](https://efektivni-altruismus.cz/)).
+Co-managing a Tibetan tea house [Dharmasala](http://www.dharmasala.cz/) in Praha Karlín.
+Camps with crafts and orchid meadow cutting in [ZČHB Kolovrátek](http://kolovratek.brontosaurus.cz/).
 Climbing with [AKA Praha](http://www.akapraha.cz).
 Seminars for talented high-school students [MaM](https://mam.mff.cuni.cz/) and [KSP](https://ksp.mff.cuni.cz/) in the past.
 
