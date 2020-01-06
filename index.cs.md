@@ -7,9 +7,10 @@ translations:
 
 <img src="/style/gavento-m.jpg" class="index-portait-img">
 
-Pracuji na výzkumu bezpečnosti umělé inteligence, teorii her a plikovaných algoritmech na
-[Katedře aplikované matematiky Univerzity Karlovy](http://kam.mff.cuni.cz/).
-V minulosti jsem též pracoval ve
+Pracuji na výzkumu bezpečnosti umělé inteligence, teorii her a aplikovaných algoritmech jako nezávyslý researcher podporovaný [EA Grants](https://www.effectivealtruism.org/grants/).
+
+V minulosti jsem pracoval na
+[Katedře aplikované matematiky Univerzity Karlovy](http://kam.mff.cuni.cz/),
 [skupině Algoritmů na ETH Zurich](http://inf.ethz.ch/),
 [AIC na ČVUT](http://cs.felk.cvut.cz/),
 [Google Zurich](https://www.google.ch/) a
@@ -26,13 +27,15 @@ Zajímají mě hlavně témata bezpečnosti AI, value learningu a teorie her. Z 
 
 ## Projekty
 
-Vyvíjím aktivně několik projektů, hlavně [Rain, framework pro distribuované výpočty](https://github.com/substantic/rain/) a [GameGym, knihovnu pro teorii her](https://github.com/gavento/gamegym).
+Vyvíjím několik projektů, hlavně [Rain, framework pro distribuované výpočty](https://github.com/substantic/rain/) a [GameGym, knihovnu pro teorii her](https://github.com/gavento/gamegym), a několik dalších research experimentů.
 
+Jsem též coach [Efektivní diplomky](http://effectivethesis.com/), dobrého zdroje témat prací zaměřených na pozitivní impakt na svět.
+
+<!--
 ### Studentské projekty
 
 Nabízím různé studentské projekty, jak na téma bezpečnosti AI, tak i ostatní výše. Více k projektům najdete na (starší) [stránce o projektech](/vyuka/projekty.html). Napište pokud máte zájem či otázky.
-
-Jsem též coach [Efektivní diplomky](http://effectivethesis.com/), dobrého zdroje témat prací zaměřených na pozitivní impakt na svět.
+-->
 
 ## Výuka
 
@@ -44,6 +47,7 @@ Jsem též coach [Efektivní diplomky](http://effectivethesis.com/), dobrého zd
 ## Další aktivity
 
 Člen [Spolku pro efektivní altruismus](https://efektivni-altruismus.cz/), české buňky [EA](https://www.effectivealtruism.org/).
+Aplikovaná racionalita a zážitková pedagogika s [Epistea Lab](https://experience.epistea.org).
 Tibetská čajovna [Dharmasala](http://www.dharmasala.cz/) v Pražském Karlíně.
 Řemesla a kosení chráněných luk s [ZČHB Kolovrátek](http://kolovratek.brontosaurus.cz/).
 Lezení s [AKA Praha](http://www.akapraha.cz).

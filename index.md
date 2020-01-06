@@ -7,9 +7,11 @@ translations:
 
 <img src="/style/gavento-m.jpg" class="index-portait-img">
 
-Researcher in AI safety, algorithms and game theory. Working at
-[Department of applied mathematics, Charles University](http://kam.mff.cuni.cz/).
-In the past I have also worked in
+Independent researcher in AI alignment, CS theory, game theory, machine learning, existential risk and applied rationality.
+Recently supported by [EA Grants](https://www.effectivealtruism.org/grants/).
+
+In the past I have worked at
+[Department of applied mathematics, Charles University](http://kam.mff.cuni.cz/),
 [Algorithms group at ETH Zurich](http://inf.ethz.ch/),
 [AIC at Czech technical university](http://cs.felk.cvut.cz/),
 [Google Zurich](https://www.google.ch/) and
@@ -22,17 +24,20 @@ In the past I have also worked in
 [<i class="ai black ai-arxiv"></i> arXiv](https://arxiv.org/find/all/1/au:+Gavenciak_T/0/1/0/all/0/),
 [<i class="ai black ai-orcid"></i> ORCID](https://orcid.org/0000-0003-1119-2426) 
 
-Recently I am mostly working on AI safety and value learning. My other and past topics include algorithmic game theory, graph theory, computational complexity, deep learning, artificial intelligence, reinforcement learning, algorithms in genomics and scheduling.
+I am working on AI alignment, value learning, game theory, statistical physics, machine learning, and existential risk topis in general.
+My other and past topics include algorithmic game theory, graph theory, computational complexity, deep learning, artificial intelligence, reinforcement learning, algorithms in genomics, and scheduling.
 
 ## Projects
 
-I am developing several software projects, mostly [Rain, a distributed computational framework](https://github.com/substantic/rain/) and [GameGym, a game theory library](https://github.com/gavento/gamegym).
+I am developing several software projects, recently [Rain, a distributed computational framework](https://github.com/substantic/rain/) and [GameGym, a game theory library](https://github.com/gavento/gamegym), and several other reseach experiments.
 
+<!--
 ### Student projects
 
 I offer student projects and theis topics both on AI-safety related topics and all the others, aboth theory and implementation/experiments. There is an older [student projects page](/vyuka/projekty.html) (in Czech). Contact me if you are curious or interested.
 
 I am coaching for [Effective Thesis](http://effectivethesis.com/), a good source of EA-aligned thesis topics and projects.
+-->
 
 ### Teaching
 
@@ -44,8 +49,9 @@ I am coaching for [Effective Thesis](http://effectivethesis.com/), a good source
 ## Other activities
 
 Active member of Czech [Effective Altruism](https://www.effectivealtruism.org/) group ([Spolek pro efektivní altruismus](https://efektivni-altruismus.cz/)).
+Applied rationality and experiential education with [Epistea Lab](https://experience.epistea.org).
 Co-managing a Tibetan tea house [Dharmasala](http://www.dharmasala.cz/) in Praha Karlín.
 Camps with crafts and orchid meadow cutting in [ZČHB Kolovrátek](http://kolovratek.brontosaurus.cz/).
-Climbing with [AKA Praha](http://www.akapraha.cz).
-Seminars for talented high-school students [MaM](https://mam.mff.cuni.cz/) and [KSP](https://ksp.mff.cuni.cz/) in the past.
+<!-- Climbing with [AKA Praha](http://www.akapraha.cz). -->
+I have organized seminars for talented high-school students [MaM](https://mam.mff.cuni.cz/) and [KSP](https://ksp.mff.cuni.cz/) in the past.
 
