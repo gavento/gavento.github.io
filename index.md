@@ -7,8 +7,8 @@ translations:
 
 <img src="/style/gavento-m.jpg" class="index-portait-img">
 
-Independent researcher in AI alignment, CS theory, game theory, machine learning, existential risk and applied rationality.
-Recently supported by [EA Grants](https://www.effectivealtruism.org/grants/).
+Independent researcher in AI alignment, CS theory, game theory, machine learning, existential risks and applied rationality.
+Recently supported by [EA Grants](https://www.effectivealtruism.org/grants/) and worked on [Epidemic Forecasting project](http://epidemicforecasting.org/).
 
 In the past I have worked at
 [Department of applied mathematics, Charles University](http://kam.mff.cuni.cz/),
@@ -27,9 +27,9 @@ In the past I have worked at
 I am working on AI alignment, value learning, game theory, statistical physics, machine learning, and existential risk topis in general.
 My other and past topics include algorithmic game theory, graph theory, computational complexity, deep learning, artificial intelligence, reinforcement learning, algorithms in genomics, and scheduling.
 
-## Projects
+## SW Projects
 
-I am developing several software projects, recently [Rain, a distributed computational framework](https://github.com/substantic/rain/) and [GameGym, a game theory library](https://github.com/gavento/gamegym), and several other reseach experiments.
+I was developing several software projects, recently [Rain, a distributed computational framework](https://github.com/substantic/rain/) and [GameGym, a game theory library](https://github.com/gavento/gamegym), and several other reseach experiments.
 
 <!--
 ### Student projects
@@ -48,10 +48,10 @@ I am coaching for [Effective Thesis](http://effectivethesis.com/), a good source
 
 ## Other activities
 
-Active member of Czech [Effective Altruism](https://www.effectivealtruism.org/) group ([Spolek pro efektivní altruismus](https://efektivni-altruismus.cz/)).
+Czech [Effective Altruism](https://www.effectivealtruism.org/) group ([Spolek pro efektivní altruismus](https://efektivni-altruismus.cz/)) &mdash; council member.
 Applied rationality and experiential education with [Epistea Lab](https://experience.epistea.org).
 Co-managing a Tibetan tea house [Dharmasala](http://www.dharmasala.cz/) in Praha Karlín.
 Camps with crafts and orchid meadow cutting in [ZČHB Kolovrátek](http://kolovratek.brontosaurus.cz/).
 <!-- Climbing with [AKA Praha](http://www.akapraha.cz). -->
-I have organized seminars for talented high-school students [MaM](https://mam.mff.cuni.cz/) and [KSP](https://ksp.mff.cuni.cz/) in the past.
+In the past, I have organized seminars for talented high-school students [MaM](https://mam.mff.cuni.cz/) and [KSP](https://ksp.mff.cuni.cz/) in the past.
 
