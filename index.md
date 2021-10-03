@@ -53,5 +53,5 @@ Applied rationality and experiential education with [Epistea Lab](https://experi
 Co-managing a Tibetan tea house [Dharmasala](http://www.dharmasala.cz/) in Praha Karlín.
 Camps with crafts and orchid meadow cutting in [ZČHB Kolovrátek](http://kolovratek.brontosaurus.cz/).
 <!-- Climbing with [AKA Praha](http://www.akapraha.cz). -->
-In the past, I have organized seminars for talented high-school students [MaM](https://mam.mff.cuni.cz/) and [KSP](https://ksp.mff.cuni.cz/) in the past.
+In the past, I have organized seminars for talented high-school students [MaM](https://mam.mff.cuni.cz/) and [KSP](https://ksp.mff.cuni.cz/).
 
