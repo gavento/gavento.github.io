@@ -24,7 +24,7 @@ In the past I have worked at
 [<i class="ai black ai-arxiv"></i> arXiv](https://arxiv.org/find/all/1/au:+Gavenciak_T/0/1/0/all/0/),
 [<i class="ai black ai-orcid"></i> ORCID](https://orcid.org/0000-0003-1119-2426) 
 
-I am working on AI alignment, game theory, statistical physics applications, complex networks, machine learning, Bayesian modelling, and existential risk topis in general. 
+I am working on AI alignment, game theory, statistical physics applications, complex networks, machine learning, Bayesian modelling, and existential risk topics in general. 
 My other and past topics include graph theory, computational complexity, deep learning, artificial intelligence, reinforcement learning, algorithms in genomics, epidemic modelling, and job scheduling.
 
 <!--
