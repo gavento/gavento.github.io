@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Homepage
-translations:
-    cs: index.cs.html
+#translations:
+#    cs: index.cs.html
 ---
 
 <img src="/style/gavento-m.jpg" class="index-portait-img">
 
-Independent researcher in AI alignment, CS theory, game theory, machine learning, existential risks and applied rationality.
-Recently supported by [EA Grants](https://www.effectivealtruism.org/grants/) and [Open Philantropy](https://www.openphilanthropy.org/), in 2020/2021 worked on [Epidemic Forecasting project](http://epidemicforecasting.org/).
+I'm a researcher in AI alignment, CS theory, game theory, machine learning, existential risks and applied rationality at the Alignment in Complex Systems Research Group at [CTS](http://www.cts.cuni.cz/index.php?m=3&lang=en), Charles University, Prague.
+Recently supported by [EA Grants](https://www.effectivealtruism.org/grants/) and [Open Philantropy](https://www.openphilanthropy.org/), in 2020/2021 I worked on [Epidemic Forecasting project](http://epidemicforecasting.org/).
 
-In the past I have worked at
+In the past I have also worked on projects at
 [Department of applied mathematics, Charles University](http://kam.mff.cuni.cz/),
 [Algorithms group at ETH Zurich](http://inf.ethz.ch/),
 [AIC at Czech technical university](http://cs.felk.cvut.cz/),
@@ -24,7 +24,8 @@ In the past I have worked at
 [<i class="ai black ai-arxiv"></i> arXiv](https://arxiv.org/find/all/1/au:+Gavenciak_T/0/1/0/all/0/),
 [<i class="ai black ai-orcid"></i> ORCID](https://orcid.org/0000-0003-1119-2426) 
 
-I am working on AI alignment, game theory, statistical physics applications, complex networks, machine learning, Bayesian modelling, and existential risk topis in general. 
+I am currently most interestes in hierarchical models of agency, cooperation in games on complex systems and on networks, ecosystem and biology-inspired models for systems of agents, and models of bounded-rationality.
+
 My other and past topics include graph theory, computational complexity, deep learning, artificial intelligence, reinforcement learning, algorithms in genomics, epidemic modelling, and job scheduling.
 
 <!--
@@ -46,12 +47,14 @@ I am coaching for [Effective Thesis](http://effectivethesis.com/), a good source
 * [Lecture and exercise archive](/vyuka/archiv.html) (in Czech)
 -->
 
+<!--
 ## Other activities
 
 Czech [Effective Altruism](https://www.effectivealtruism.org/) group ([Spolek pro efektivní altruismus](https://efektivni-altruismus.cz/)) &mdash; council member.
-Applied rationality and experiential education with [Epistea Lab](https://experience.epistea.org).
+Applied rationality and experiential education with [Epistea Lab](https://experience.epistea.org). 
 Co-managing a Tibetan tea house [Dharmasala](http://www.dharmasala.cz/) in Praha Karlín.
-Camps with crafts and orchid meadow cutting in [ZČHB Kolovrátek](http://kolovratek.brontosaurus.cz/).
-<!-- Climbing with [AKA Praha](http://www.akapraha.cz). -->
+Camps with crafts and orchid meadow cutting in [ZČHB Kolovrátek](http://kolovratek.brontosaurus.cz/). 
+Climbing with [AKA Praha](http://www.akapraha.cz). 
 In the past, I have organized seminars for talented high-school students [MaM](https://mam.mff.cuni.cz/) and [KSP](https://ksp.mff.cuni.cz/).
+-->
 
