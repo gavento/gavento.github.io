@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gavento.ucw.cz" # the base hostname & protocol for your site
 github_username:  gavento
-theme: jekyll-theme-kagami
+theme: jekyll-theme-minimal
 color_scheme: github
 
 exclude: ["Makefile", "Gemfile", "Gemfile.lock"]
