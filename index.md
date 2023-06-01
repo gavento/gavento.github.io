@@ -7,10 +7,10 @@ title: Homepage
 
 <img src="/style/gavento-m.jpg" class="index-portait-img">
 
-I'm a researcher in AI alignment, CS theory, game theory, machine learning, existential risks and applied rationality at the Alignment in Complex Systems Research Group at [CTS](http://www.cts.cuni.cz/index.php?m=3&lang=en), Charles University, Prague.
-Recently supported by [EA Grants](https://www.effectivealtruism.org/grants/) and [Open Philantropy](https://www.openphilanthropy.org/), in 2020/2021 I worked on [Epidemic Forecasting project](http://epidemicforecasting.org/).
+I'm a researcher in AI alignment, CS theory, game theory, machine learning, existential risks and applied rationality at the [Alignment in Complex Systems Research Group](https://acsresearch.org/) at [CTS](http://www.cts.cuni.cz/index.php?m=3&lang=en), Charles University, Prague.
 
 In the past I have also worked on projects at
+[Epidemic Forecasting project](http://epidemicforecasting.org/),
 [Department of applied mathematics, Charles University](http://kam.mff.cuni.cz/),
 [Algorithms group at ETH Zurich](http://inf.ethz.ch/),
 [AIC at Czech technical university](http://cs.felk.cvut.cz/),
@@ -24,9 +24,12 @@ In the past I have also worked on projects at
 [<i class="ai black ai-arxiv"></i> arXiv](https://arxiv.org/find/all/1/au:+Gavenciak_T/0/1/0/all/0/),
 [<i class="ai black ai-orcid"></i> ORCID](https://orcid.org/0000-0003-1119-2426) 
 
-I am currently most interestes in hierarchical models of agency, cooperation in games on complex systems and on networks, ecosystem and biology-inspired models for systems of agents, and models of bounded-rationality.
+Within ACS, I am working on various topics on the intersection of AI alignment, game theory and complex systems. In no poarticular order: agent models based on active inference, interactions of large language models, hierarchical models of agency, cooperation in games on complex systems and on networks, ecosystem and biology-inspired models for systems of agents, and models of bounded-rationality.
 
-My other and past topics include graph theory, computational complexity, deep learning, artificial intelligence, reinforcement learning, algorithms in genomics, epidemic modelling, and job scheduling.
+My other and past topics of interest include graph theory, computational complexity, deep learning, artificial intelligence, reinforcement learning, algorithms in genomics, epidemic modelling, and job scheduling.
+
+Over the last few years, my work was supported by [EA Grants](https://www.effectivealtruism.org/grants/) and [Open Philantropy](https://www.openphilanthropy.org/) and Charles University PRIMUS grant.
+
 
 <!--
 ## SW Projects
