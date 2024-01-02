@@ -28,36 +28,3 @@ My current research within the Alignment in Complex Systems group revolves aroun
 
 In addition to these current research interests, I have previously delved into topics such as graph theory, computational complexity, deep learning, artificial intelligence, reinforcement learning, genomic algorithm application, epidemic modelling, and job scheduling.
 
-Over the last few years, my work was supported by [EA Grants](https://www.effectivealtruism.org/grants/) and [Open Philantropy](https://www.openphilanthropy.org/) and Charles University PRIMUS grant.
-
-
-<!--
-## SW Projects
-
-I was developing several software projects, recently [Rain, a distributed computational framework](https://github.com/substantic/rain/) and [GameGym, a game theory library](https://github.com/gavento/gamegym), and several other reseach experiments.
-
-### Student projects
-
-I offer student projects and theis topics both on AI-safety related topics and all the others, aboth theory and implementation/experiments. There is an older [student projects page](/vyuka/projekty.html) (in Czech). Contact me if you are curious or interested.
-
-I am coaching for [Effective Thesis](http://effectivethesis.com/), a good source of EA-aligned thesis topics and projects.
-
-### Teaching
-
-* *Spring 2018:* [Introduction to combinatorics and graph theory](/vyuka/18LS-KGM.html) (in Czech)
-* *Spring 2018:* [Introduction to problem solving 2 (IPS2)](http://mj.ucw.cz/vyuka/1718/ips2/) (in Czech)
-* *Fall 2017:* [Introduction to problem solving (IPS)](http://mj.ucw.cz/vyuka/1718/ips/) (in Czech)
-* [Lecture and exercise archive](/vyuka/archiv.html) (in Czech)
--->
-
-<!--
-## Other activities
-
-Czech [Effective Altruism](https://www.effectivealtruism.org/) group ([Spolek pro efektivní altruismus](https://efektivni-altruismus.cz/)) &mdash; council member.
-Applied rationality and experiential education with [Epistea Lab](https://experience.epistea.org). 
-Co-managing a Tibetan tea house [Dharmasala](http://www.dharmasala.cz/) in Praha Karlín.
-Camps with crafts and orchid meadow cutting in [ZČHB Kolovrátek](http://kolovratek.brontosaurus.cz/). 
-Climbing with [AKA Praha](http://www.akapraha.cz). 
-In the past, I have organized seminars for talented high-school students [MaM](https://mam.mff.cuni.cz/) and [KSP](https://ksp.mff.cuni.cz/).
--->
-
